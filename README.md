@@ -1,1 +1,1 @@
-# MinCup
+# MinCupe
