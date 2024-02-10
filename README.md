@@ -1,1 +1,1 @@
-# MagicCraftRP
+# MinCup
